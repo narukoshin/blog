@@ -13,24 +13,24 @@
 </div>
 
 
-Welcome to my something like a blog. It as a pretty old idea to create a blog but I didn't want to mess with the CMS like WordPress and others, for this kind of blog I prefer simplicity and the rich features of markdown.
+Welcome to my something-like blog. It was a pretty old idea to create a blog but I didn't want to mess with the CMS like WordPress and others, for this kind of blog I prefer simplicity and the rich features of markdown.
 
-## 📚 What this blog will be about?
+## 📚 What will this blog be about?
 
-To be honest, I don't know how far I will go with this, for me this is more like an experiment, if the people will be interested in the stuff that I'm interested at, then of course I'll continue to post things there. I will try to make this blog on Github look simple as possible even for people that are not familiar with Github, because this platform is mostly focused on developers for storing code and stuff.
+To be honest, I don't know how far I will go with this, for me this is more like an experiment, if the people are interested in the stuff that I'm interested in, then, of course, I'll continue to post things there. I will try to make this blog on Github look as simple as possible even for people who are not familiar with Github, because this platform is mostly focused on developers for storing code and stuff.
 
 ## 💁 How to use this blog?
 
-As I mentioned many times, by goal is <b>simplicity</b>, browsing this blog actually is pretty easy, at the top of the page you can see something like file browser. For each topic I will have a seperate folder where I will create individual files with articles. Just select a topic folder you want to browse and then click on any file there. 
+As I mentioned many times, my goal is <b>`simplicity`</b>, browsing this blog is pretty easy, at the top of the page you can see something like a file browser. For each topic, I will have a separate folder where I will create individual files with articles. Just select a topic folder you want to browse and then click on any file there. 
 
-Also a list of topics will be shown below, so you can simply click on the topic and you will be automatically redirected to the topic page.
+Also, a list of topics will be shown below. Simply click on a topic to be automatically redirected to the topic page.
 
 ## 🎴 Topics
 
 <b>
 
 ```
-At the moment, available topics are:
+At the moment, the available topics are:
 ```
 
 
