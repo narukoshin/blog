@@ -23,7 +23,6 @@ Yep! If you're a beginner guitarist, this can be confusing, but that's how it wo
 Why should I even change my guitar tuning?
 Changing your guitar tuning opens up a wide range of musical possibilities and offers several benefits, depending on the style or sound you're aiming for.
 
-
 Lower tunings (like Drop C, Drop D, or D standard) give you a heavier, deeper sound often used in genres like metal and hard rock. They create a fuller, more powerful tone. Drop tunings make power chords easier to play. In Drop D, for example, you can play power chords with just one finger across the lowest three strings, making riffing fast and simple.
 
 Open tunings (like Open G or Open D) create a richer harmonic resonance that suits folk, blues, and slide guitar playing, giving a natural drone or chordal sound without complex fingerings.
