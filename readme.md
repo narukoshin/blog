@@ -37,6 +37,6 @@ At the moment, available topics are:
 
 <h3>
 
-> [Guitar](Guitar/readme.md)
+> [🎸 Guitar ・ギター](Guitar/readme.md)
 </h3>
 </b>
