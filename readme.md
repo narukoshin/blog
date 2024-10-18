@@ -27,7 +27,7 @@ Also a list of topics will be shown below, so you can simply click on the topic 
 
 ## 🎴 Topics
 
-<b><center>
+<b>
 
 ```
 At the moment, available topics are:
@@ -39,4 +39,4 @@ At the moment, available topics are:
 
 > [Guitar](Guitar/readme.md)
 </h3>
-</center></b>
+</b>
