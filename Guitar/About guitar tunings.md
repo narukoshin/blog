@@ -10,11 +10,9 @@ Umm, that's a tricky question because there are thousands of different tunings a
 
 For example, if you have a 6-string guitar, you can set a different note for each string. There are a total of 12 notes that you can use to tune each string.
 
-We can use a formula of permutation: $P^n_r = \frac{n!}{n-r}$ <br />
-...or simply using $n^r$
+We can use a simple formula: $n^r$
 
-
-The formula for this is 12 (notes available) ^ 6 (strings total) = 2,985,984 possible tunings. That means you have around 3 million tunings available for a 6-string guitar. What about a 7-string guitar? Using the same formula and doing a bit of black magic, you get 35 million tunings.
+Using the formula above, the result looks like this: $12^6 = 2,985,984$ possible tunings. That means you have around 3 million tunings available for a 6-string guitar. What about a 7-string guitar? Using the same formula and doing a bit of black magic, you get 35 million tunings.
 
 Most tunings have specific names. For example, there's E standard, but also B standard, Db standard, etc. There are also Drop and Open tunings. One of the most popular drop tunings is Drop D. If your guitar is in E standard, you only need to lower the 6th string to D, and voila, you have Drop D tuning. Easy, right?
 
