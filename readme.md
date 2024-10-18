@@ -12,7 +12,6 @@
   </div>
 </div>
 
-
 Welcome to my something-like blog. It was a pretty old idea to create a blog but I didn't want to mess with the CMS like WordPress and others, for this kind of blog I prefer simplicity and the rich features of markdown.
 
 ## 📚 What will this blog be about?
