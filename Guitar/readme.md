@@ -16,8 +16,6 @@ At the moment, I own just one guitar ー an Ibanez GSA60 (which I bought earlier
 At the moment, the available articles are:
 ```
 
-
-
 <h3>
 
 > [1. About guitar tunings](About%20guitar%20tunings.md)
