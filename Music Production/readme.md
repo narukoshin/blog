@@ -20,6 +20,8 @@ When you first get into music, you don’t know much, like which DAW to use or w
 At the moment, the available articles are:
 ```
 
-> No articles at the moment...
+<h3>
 
+> No articles at the moment...
+</h3>
 </b>
