@@ -37,5 +37,7 @@ At the moment, the available topics are:
 > [🎸 Guitar ・ ギター](Guitar/readme.md)
 
 > [🎹 Music Production ・ 音楽制作](Music%20Production/readme.md)
+
+> [👨‍💻 Programming ・ プログラム作成](Programming/readme.md)
 </h3>
 </b>
