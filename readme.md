@@ -34,8 +34,8 @@ At the moment, the available topics are:
 
 <h3>
 
-> [🎸 Guitar ・ ギター](Guitar)
+> [🎸 Guitar ・ ギター](Guitar/readme.md)
 
-> [🎹 Music Production ・ 音楽制作](Music%20Production)
+> [🎹 Music Production ・ 音楽制作](Music%20Production/readme.md)
 </h3>
 </b>
