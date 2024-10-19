@@ -1,4 +1,4 @@
-<img alt="Source: elevaterockschool.com" src="https://elevaterockschool.com/wp-content/uploads/elevate-bass-guitar-header-1280x384.jpg" /><br><br>
+<img alt="Source: elevaterockschool.com" src="https://github.com/narukoshin/blog/blob/assets/guitar_header.jpg?raw=true" /><br><br>
 
 # <b>Topic › 🎸 Guitar</b>
 
