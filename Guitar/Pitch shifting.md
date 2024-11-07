@@ -1,4 +1,4 @@
-<img src="https://github.com/narukoshin/blog/blob/assets/articles/pitch_shifting.jpg?raw=true" /><br><br>
+<img src="https://github.com/narukoshin/blog/blob/assets/articles/pitch-shifting/pitch_shifting.jpg?raw=true" /><br><br>
 
 # 🎚️Pitch shifting
 
@@ -22,13 +22,13 @@ If you want to change the pitch of your guitar, you can use pitch shifting pedal
 
 In the picture above, you can see how the pitch shifting pedal looks. One of the most useful features of this pedal is the ability to set a specific pitch and with just one press of a button, you can enable the pitch shift instantly. This functionality is incredibly handy for live performances, allowing you to switch tunings or create harmonies on the fly without interrupting your playing.
 
-<img alt="Digitech Whammy Ricochet Pitch Shift Harmonizer effect pedal" src="pitch-shifting-pedal.png">
+<img alt="Digitech Whammy Ricochet Pitch Shift Harmonizer effect pedal" src="https://github.com/narukoshin/blog/blob/assets/articles/pitch-shifting/pitch-shifting-pedal.png?raw=true">
 
 <sub>Figure 1: Digitech Whammy Ricochet Pitch Shift Harmonizer effect pedal</sub>
 
 Guitar pedals are nice and easy to use (and also cost a lot), but this time we will focus un digital stuff. 🐱
 
-<img alt="Pitchproof Harmonizer|Pitch shifter" src="./pitchproof-plugin.png">
+<img alt="Pitchproof Harmonizer|Pitch shifter" src="https://github.com/narukoshin/blog/blob/assets/articles/pitch-shifting/pitchproof-plugin.png?raw=true">
 
 <sub>Figure 2: Pitchproof Harmonizer|Pitch shifter</sub>
 
@@ -91,12 +91,12 @@ If you are like me and play Rocksmith, then you’re in luck, because I will rev
 * rs_asio installed, <a href="https://github.com/mdias/rs_asio">setup guide there</a>;
 * Audio Interface with 2 channels or loopback channel.
 
-I don't know about other DAWs, but in Ableton you can easily route audio from one channel to another. So, I have a guitar input from the channel 1/2 and output it to 3/4 channel, that on my interface is loopback channel. 
+I don't know about other DAWs, but in Ableton you can easily route audio from one channel to another. So, I have a guitar input from the channel 1/2 and output it to 3/4 channel, that on my interface is loopback channel. (I believe, that you can do that in any other DAW, even free ones or similar software that allows routing audio signals between different channels.)
 
 The first step is that you need to take your guitar input and apply pitch shifting, and the signal should be sent to another channel; we are doing something similar to what the patchbay does.
 \- what the?, Okay, nevermind, just remember, input is 1/2, output is 3/4.
 
-<img alt="Ableton guitar signal routing example" src="./ableton-pitchshifting.png?v1">
+<img alt="Ableton guitar signal routing example" src="https://github.com/narukoshin/blog/blob/assets/articles/pitch-shifting/ableton-pitchshifting.png?raw=true">
 
 <sub>Figure 3: Ableton guitar signal routing example.</sub>
 
@@ -106,7 +106,7 @@ When you finish this, in the second step you need to edit the RS_ASIO configurat
 
 Here is an example of how my RS_ASIO config looks.
 
-<img alt="RSAsio config example" src="./rsasio_config.png">
+<img alt="RSAsio config example" src="https://github.com/narukoshin/blog/blob/assets/articles/pitch-shifting/rsasio_config.png?raw=true">
 
 <sub>Figure 4: RSAsio config example.</sub>
 
@@ -123,7 +123,7 @@ There's a little example about RSAsio channels:
 
 Today, I've already tested and pitch-shifting in Rocksmith works kinda fine.
 
-<img alt="Tuner before/after pitch-shifting" src="./ableton-tuners.png">
+<img alt="Tuner before/after pitch-shifting" src="https://github.com/narukoshin/blog/blob/assets/articles/pitch-shifting/ableton-tuners.png?raw=true">
 
 <sub>Figure 5: Tuner before/after pitch-shifting</sub>
 
