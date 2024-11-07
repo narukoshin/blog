@@ -46,7 +46,7 @@ If your guitar is currently tuned to E Standard tuning, when you pitch shift jus
 
 To better understand, I created a little cheat sheet for standard and drop tunings.
 
-| Base Tuning (E Standard) | Eb Standard | D Standard | Db Standard | C Standard | B Standard | Bb Standard | A Standard | Ab Standard | G Standard | F♯ Standard | F Standard | E (Octave Lower) |
+| Base Tuning | Eb Standard | D Standard | Db Standard | C Standard | B Standard | Bb Standard | A Standard | Ab Standard | G Standard | F♯ Standard | F Standard | E (Octave Lower) |
 |--------------------------|-------------|------------|-------------|------------|------------|-------------|------------|-------------|------------|-------------|------------|-------------------|
 | E Standard               | -1          | -2         | -3          | -4         | -5         | -6          | -7         | -8          | -9         | -10         | -11        | -12              |
 | Eb Standard              | N/A         | -1         | -2          | -3         | -4         | -5          | -6         | -7          | -8         | -9          | -10        | -11              |
