@@ -18,6 +18,8 @@ At the moment, the available articles are:
 
 <h3>
 
-> [1. About guitar tunings](About%20guitar%20tunings.md)
+> [1. 🎸 About guitar tunings](About%20guitar%20tunings.md)
+
+> [2. 🎚️ Pitch shifting](Pitch%20shifting.md)
 </h3>
 </b>
