@@ -139,7 +139,7 @@ If you like the content I'm writing and want to see more in the future, you can 
 
 You can read about my music experience in article overviews, where you will see how I started doing music and that I don't have much knowledge of music theory but I'm moving forward and trying to learn the topics I'm interested in to be a better at playing guitar, making music, etc.
 
-Enough writing, if you have a Github account, you can share your feedback or recommend new topics for writing in the <a href="https://github.com/narukoshin/blog/issues">Issues</a> page or you can contact me at enko@narukoshin.me.
+Enough writing, if you have a Github account, you can share your feedback or suggest a new topics for writing in the <a href="https://github.com/narukoshin/blog/issues">Issues</a> page or you can contact me at enko@narukoshin.me.
 
 ---
 ENKO @ 2024
