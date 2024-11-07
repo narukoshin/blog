@@ -26,7 +26,7 @@ In the picture above, you can see how the pitch-shifting pedal looks. One of the
 
 <sub>Figure 1: Digitech Whammy Ricochet Pitch Shift Harmonizer effect pedal</sub>
 
-Guitar pedals are nice and easy to use (and also cost a lot), but this time we will focus un digital stuff. 🐱
+Guitar pedals are nice and easy to use (and also cost a lot), but this time we will focus on digital stuff. 🐱
 
 <img alt="Pitchproof Harmonizer|Pitch shifter" src="https://github.com/narukoshin/blog/blob/assets/articles/pitch-shifting/pitchproof-plugin.png?raw=true">
 
