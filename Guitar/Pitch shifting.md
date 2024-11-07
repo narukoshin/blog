@@ -102,7 +102,7 @@ The first step is that you need to take your guitar input and apply pitch shifti
 
 Yes, I have a tuner before and after pitch shifting because I like to see if my guitar is in tune and if the pitch-shifted signal is in tune. 😼
 
-When you finish this, in the second step you need to edit the RS_ASIO configuration file and modify the audio source.
+When you finish this, in the second step you need to edit the RS_ASIO configuration file and modify the input source.
 
 Here is an example of how my RS_ASIO config looks.
 
