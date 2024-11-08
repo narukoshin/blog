@@ -139,7 +139,7 @@ If you like the content I'm writing and want to see more in the future, you can 
 
 You can read about my music experience in article overviews, where you will see how I started doing music and that I don't have much knowledge of music theory but I'm moving forward and trying to learn the topics I'm interested in to be a better at playing guitar, making music, etc.
 
-Enough writing, if you have a GitHub account, you can share your feedback or suggest a new topic for writing in the <a href="https://github.com/narukoshin/blog/issues">Issues</a> page or you can contact me at enko@narukoshin.me.
+Enough writing, if you have a GitHub account, you can share your feedback or suggest a new topic for writing in the <a href="https://github.com/narukoshin/blog/issues">Issues</a> page or you can contact me at inquiries@narukoshin.me.
 
 <img src="https://z-p3-scontent.frix8-1.fna.fbcdn.net/v/t39.30808-6/465168805_3836702293275892_2818084641482412552_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=X5gd8qZdBHUQ7kNvgFW-xeF&_nc_zt=23&_nc_ht=z-p3-scontent.frix8-1.fna&_nc_gid=AfdXeXYgCjz-HD6Anb7eOkZ&oh=00_AYCIoPX2_3ptIzQbfZvmZ0hUjgoQCvveq0s0FIVMwjTPPA&oe=673317B1">
 <sub>Figure 6: Stop thinking, start doing.</sub>
