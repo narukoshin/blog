@@ -156,7 +156,8 @@ class Router {
      * @return int status code
      */
     private function status_code($url){
-        $headers = get_headers($url); 
+        $context = stream_context_create([ 'http' => [ 'timeout' => 5 ] ]);
+        $headers = get_headers($url, 1, $context); 
         return intval(substr($headers[0], 9, 3));
     }
     /**
