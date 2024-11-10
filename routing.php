@@ -162,10 +162,7 @@ class Router {
         $command = sprintf("%s/.nvm/versions/node/v23.1.0/bin/node ping.js %s", $cwd, escapeshellcmd(escapeshellarg($url)));
         $output_json = trim(shell_exec($command));
         $this->gh_meta_info = json_decode($output_json, true);
-
-        echo $this->gh_meta_info;
-
-
+        return $this->gh_meta_info["status_code"];
     }
     /**
      * Parsing input from word1-word2-word3 to normal format "Word1 Word2 Word3".
@@ -199,11 +196,7 @@ class Router {
      * @return false|JSON Object
      */
     private function metadata_parse($url){
-        $data = file_get_contents($url);
-        if (preg_match("/\<\!\-\-\s*({.*})\s*\-\-\>/", $data, $matches)){
-            return json_decode($matches[1], true);
-        }
-        return false;
+	return $this->gh_meta_info["data"];
     }
     /** 
      * This function will output a HTML template to show the cards in social media.
