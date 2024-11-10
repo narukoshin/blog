@@ -1,5 +1,4 @@
-<!-- {"title":"Topic - 🎹 Music Production", "description":"Welcome to the music production topic. There I'll write everything about the music production, tutorials, maybe tricks&tips, etc. 
-", "image_url":"https://github.com/narukoshin/blog/blob/assets/music_prod_header.jpg?raw=true"} -->
+<!-- {"title":"Topic - 🎹 Music Production", "description":"Welcome to the music production topic. There I'll write everything about the music production, tutorials, maybe tricks&tips, etc.", "image_url":"https://github.com/narukoshin/blog/blob/assets/music_prod_header.jpg?raw=true"} -->
 <img alt="Source: wallpapersafari.com" src="https://github.com/narukoshin/blog/blob/assets/music_prod_header.jpg?raw=true" /><br><br>
 
 # <b>Topic › 🎹 Music Production</b>
