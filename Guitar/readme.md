@@ -1,3 +1,4 @@
+<!-- {"title":"Topic - Guitar", "description":"Welcome to the world of guitars! In this topic, I'll be sharing everything I know about guitars—some theory, some practical insights, and more.", "image_url":"https://github.com/narukoshin/blog/blob/assets/guitar_header.jpg?raw=true"} -->
 <img alt="Source: elevaterockschool.com" src="https://github.com/narukoshin/blog/blob/assets/guitar_header.jpg?raw=true" /><br><br>
 
 # <b>Topic › 🎸 Guitar</b>
