@@ -51,7 +51,7 @@ class Router {
         $name = ucfirst($name);
         $topic_url = sprintf("%s/%s/readme.md", $this->gh_main, $name);
 
-        if ($this->statuss_code($topic_url) == 200) {
+        if ($this->status_code($topic_url) == 200) {
             // What will happen if the topic exist?
             echo "stuff exists";
 
@@ -75,7 +75,7 @@ class Router {
      * @param string $url
      * @return int status code
      */
-    private function statuss_code($url){
+    private function status_code($url){
         $headers = get_headers($url); 
         return intval(substr($headers[0], 9, 3));
     }
