@@ -5,7 +5,6 @@ class Router {
      * @var string
      */
     private string $uri;
-    
     /**
      * @var string
      */
@@ -14,7 +13,10 @@ class Router {
      * @var string
      */
     private string $gh_main_url;
-
+    /**
+     * @var string
+     */
+    private array $gh_meta_info;
     /**
      * @return void
      */
@@ -157,8 +159,13 @@ class Router {
      */
     private function status_code($url){
         $cwd = getcwd();
-        $command = sprintf("/usr/bin/python3 %s ping.py %s", $cwd, escapeshellcmd(escapeshellarg($url)));
-        return trim(shell_exec($command));
+        $command = sprintf("%s/.nvm/versions/node/v23.1.0/bin/node ping.js %s", $cwd, escapeshellcmd(escapeshellarg($url)));
+        $output_json = trim(shell_exec($command));
+        $this->gh_meta_info = json_decode($output_json, true);
+
+        echo $this->gh_meta_info;
+
+
     }
     /**
      * Parsing input from word1-word2-word3 to normal format "Word1 Word2 Word3".
