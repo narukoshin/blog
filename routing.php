@@ -156,7 +156,7 @@ class Router {
      * @return int status code
      */
     private function status_code($url){
-        $cwd = getcwd(__FILE__);
+        $cwd = getcwd();
         $command = sprintf("/usr/bin/python3 %s ping.py %s", $cwd, escapeshellcmd(escapeshellarg($url)));
         return trim(shell_exec($command));
     }
