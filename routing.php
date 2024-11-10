@@ -68,6 +68,7 @@ class Router {
                     echo $template;
                     return;
                 } else {
+                    http_response_code(400);
                     header("Content-Type: application/json;charset=utf-8");
                     echo json_encode([
                         "error"             => [
@@ -75,10 +76,10 @@ class Router {
                             "article_url"   => $topic_url_raw
                         ]
                     ]);
-                    http_response_code(400);
                     return;
                 }
             } else {
+                http_response_code(400);
                 header("Content-Type: application/json;charset=utf-8");
                 echo json_encode([
                     "error"             => [
@@ -86,18 +87,17 @@ class Router {
                         "article_url"   => $topic_url_raw
                     ]
                 ]);
-                http_response_code(400);
                 return;
             }
         } else {
             // What will happen if the topic doesn't exist?
+            http_response_code(404);
             header("Content-Type: application/json;charset=utf-8");
             echo json_encode([
                 "error"             => [
                     "message"       => sprintf("Topic '%s' does not exist", $topic_name)
                 ]
             ]);
-            http_response_code(404);
             return;
         }
     }
