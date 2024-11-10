@@ -29,11 +29,11 @@ class Router {
         switch(count($parts)) {
             case 1:
                 // It's topic
-                $this->to_topic($parts[0]);
+                $this->to_topic(strtolower($parts[0]));
                 break;
             case 2:
                 // It's article
-                $this->to_article($parts[0], $parts[1]);
+                $this->to_article(strtolower($parts[0]), strtolower($parts[1]));
                 break;
             default:
                 // Normally this shouldn't happen.
@@ -48,19 +48,8 @@ class Router {
      * @return void
      */
     private function to_topic($name){
-        $name = (function() use ($name) {
-            $words = explode("-", $name);
-            if (count($words) > 1) {
-                $new_name = [];
-                foreach ($words as $word) {
-                    array_push($new_name, ucfirst($word));
-                }
-            } else {
-                return ucfirst($name);
-            }
-            return implode(" ", $new_name);
-        })();
-                
+        $name = $this->from_kebab($name);
+
         $topic_url = sprintf("%s/%s/readme.md", $this->gh_main, str_replace(" ", "%20", $name));
 
         if ($this->status_code($topic_url) == 200) {
@@ -81,7 +70,15 @@ class Router {
      * @return void
      */
     private function to_article($topic, $article){
-        echo "article";
+        $topic_name     = $this->from_kebab($topic);
+        $article_name   = $this->from_kebab($article, true);
+        $article_url    = sprintf("%s/%s/%s.md", $this->gh_main, str_replace(" ", "%20", $topic_name), str_replace(" ", "%20", $article_name));
+
+        if ($this->status_code($article_url) == 200) {
+            echo "stuff exists";
+        } else {
+            echo "article doesnt exist";
+        }
     }
     /**
      * @param string $url
@@ -90,6 +87,31 @@ class Router {
     private function status_code($url){
         $headers = get_headers($url); 
         return intval(substr($headers[0], 9, 3));
+    }
+    /**
+     * Parsing input from word1-word2-word3 to normal format "Word1 Word2 Word3".
+     * 
+     * @param string $name
+     * @param bool $isarticle   for the article name we need only first word ucfirst.
+     * @return string
+     */
+    private function from_kebab($name, $isarticle = false){
+        $words = explode("-", $name);
+        if (count($words) > 1) {
+            $new_name = [];
+            foreach ($words as $index => $word) {
+                if ($isarticle && $index == 0) {
+                    $new_name[] = ucfirst($word);
+                } else if (!$isarticle) {
+                    $new_name[] = ucfirst($word);
+                } else {
+                    $new_name[] = $word;
+                }
+            }
+        } else {
+            return ucfirst($name);
+        }
+        return implode(" ", $new_name);
     }
 }
 
