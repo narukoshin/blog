@@ -156,9 +156,9 @@ class Router {
      * @return int status code
      */
     private function status_code($url){
-        $context = stream_context_create([ 'http' => [ 'timeout' => 5 ] ]);
-        $headers = get_headers($url, 1, $context); 
-        return intval(substr($headers[0], 9, 3));
+        $cwd = getcwd(__FILE__);
+        $command = sprintf("/usr/bin/python3 %s ping.py %s", $cwd, escapeshellcmd(escapeshellarg($url)));
+        return trim(shell_exec($command));
     }
     /**
      * Parsing input from word1-word2-word3 to normal format "Word1 Word2 Word3".
