@@ -232,7 +232,7 @@ class Router {
                     <meta name="og:site_name" content="blog.narukoshin.me" />
                     <meta name="og:type" content="blog" />
 
-                    <meta http-equiv="refresh" content="3;url={$meta->url}">
+                    <meta http-equiv="refresh" content="2;url={$meta->url}">
 
                     <meta name="twitter:creator" content="@enkosan_p">
                     <meta name="twitter:url" content="{$meta->url}">
