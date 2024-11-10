@@ -48,8 +48,20 @@ class Router {
      * @return void
      */
     private function to_topic($name){
-        $name = ucfirst($name);
-        $topic_url = sprintf("%s/%s/readme.md", $this->gh_main, $name);
+        $name = (function() use ($name) {
+            $words = explode("-", $name);
+            if (count($words) > 1) {
+                $new_name = [];
+                foreach ($words as $word) {
+                    array_push($new_name, ucfirst($word));
+                }
+            } else {
+                return ucfirst($name);
+            }
+            return implode(" ", $new_name);
+        })();
+                
+        $topic_url = sprintf("%s/%s/readme.md", $this->gh_main, str_replace(" ", "%20", $name));
 
         if ($this->status_code($topic_url) == 200) {
             // What will happen if the topic exist?
