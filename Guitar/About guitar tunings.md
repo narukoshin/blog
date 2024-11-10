@@ -1,3 +1,6 @@
+<!-- {"title":"Guitar tunings... What the?", "description":"If you're playing guitar, you should at least know what guitar tuning means. If, for some reason, you don't know that, well, you're doing something wrong.", "image_url":"https://github.com/narukoshin/blog/blob/assets/articles/about-guitar-tunings/article_header.jpg?raw=true"} -->
+<img src="https://github.com/narukoshin/blog/blob/assets/articles/about-guitar-tunings/article_header.jpg?raw=true" /><br><br>
+
 # Guitar tunings... What the?
 
 If you're playing guitar, you should at least know what guitar tuning means. If, for some reason, you don't know that, well, you're doing something wrong. So, what the heck is guitar tuning, you ask? Guitar tuning is adjusting the pitch of the strings to specific notes.
