@@ -22,7 +22,7 @@ class Router {
      */
     public function __construct() {
         // Setting github main URL
-        $this->gh_raw_url = "https://raw.githubusercontent.com/narukoshin/blog/draft";
+        $this->gh_raw_url = "https://raw.githubusercontent.com/narukoshin/blog/main";
         $this->gh_main_url = "https://github.com/narukoshin/blog/blob/main";
         $this->uri = ltrim($_SERVER['REQUEST_URI'], "/");
 
