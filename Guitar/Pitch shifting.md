@@ -138,7 +138,7 @@ As a music producer and someone who is learning to play musical instruments, I l
 
 If you like the content I'm writing and want to see more in the future, you can support me in any way you want. I believe that music education and sharing knowledge should be accessible to everyone. It's never too late to start; it's better to start late than never.
 
-You can read about my music experience in article overviews, where you will see how I started doing music and that I don't have much knowledge of music theory but I'm moving forward and trying to learn the topics I'm interested in to be a better at playing guitar, making music, etc.
+You can read about my music experience in the topic introduction pages, where you will see how I started doing music and that I don't have much knowledge of music theory but I'm moving forward and trying to learn the topics I'm interested in to be a better at playing guitar, making music, etc.
 
 Enough writing, if you have a GitHub account, you can share your feedback or suggest a new topic for writing in the <a href="https://github.com/narukoshin/blog/issues">Issues</a> page or you can contact me at inquiries@narukoshin.me.
 
