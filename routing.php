@@ -116,3 +116,13 @@ class Router {
 }
 
 new Router;
+
+/**
+ * こんにちは、ENKOです。
+ * Music Producer・Composer・Songwriter, Multi-instrumentalist, Software Engineer, Security Tester
+ * 
+ * https://blog.narukoshin.me - blog. :)
+ * https://x.com/enkosan_p - Twitter. :)
+ * 
+ * 2024
+ */
