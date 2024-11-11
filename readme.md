@@ -38,6 +38,6 @@ At the moment, the available topics are:
 
 > [🎹 Music Production ・ 音楽制作](Music%20Production/readme.md)
 
-> [👨‍💻 Programming ・ プログラム作成](Programming/readme.md)
+> [👨‍💻 Tech ・ テック](Tech/readme.md)
 </h3>
 </b>
