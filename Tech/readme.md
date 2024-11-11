@@ -1,7 +1,7 @@
 <!-- {"title":"Topic - Programming", "description":"Welcome, there! This topic isn’t just about programming — it’ll also cover security testing and other tech-related topics.", "image_url":"https://github.com/narukoshin/blog/blob/assets/programming_header.jpg?raw=true"} -->
 <img src="https://github.com/narukoshin/blog/blob/assets/programming_header.jpg?raw=true" /><br><br>
 
-# <b>Topic › 👨‍💻 Programming</b>
+# <b>Topic › 👨‍💻 Tech</b>
 
 Welcome, there! This topic isn’t just about programming — it’ll also cover security testing and other tech-related topics.
 
