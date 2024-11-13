@@ -1,14 +1,16 @@
+<img src="header.jpg">
+
 <div>
     <a target="_blank" href="https://twitter.com/enkosan_p"><img src="https://media4.giphy.com/media/iFUiSYMNPvIJZDpMKN/giphy.gif?cid=ecf05e471v5jn6vuhczu1tflu2wm7qt11atwybfwcgaqxz38&rid=giphy.gif&ct=s" align="middle" width="120"></a>
     <a target="_blank" href="https://instagram.com/enko.san"><img src="https://media1.giphy.com/media/Wu9Graz2W46frtHFKc/giphy.gif?cid=ecf05e47h46mbuhq40rgevni5rbxgadpw5icrr71vr9nu8d4&rid=giphy.gif&ct=s" align="middle" width="120"></a>
 </div>
 
-# 🏹 Ableton push as the mixer
+# 🏹 Ableton Push 2 as the mixer
 
 In this topic I will share how I'm using my Ableton push 2 as a mixer that I'm using daily for easier different sound management and processing, for example boosting frequencies to listen the music.
 
 
-## 💁 1. What is Ableton Push?
+## 💁 1. What is Ableton Push 2?
 
 I believe that not everyone knows what Ableton Push is, so at the beginning, I will explain what it is.
 
@@ -79,3 +81,11 @@ Sound Interface => Ableton => Output
 If you manage to set your setup like this, then I can congratulate you, because this is the setup where the latency is very minimal and nearly noticable, so you can even play games like osu!. I tried it myself by routing all my audio using 3/4 channel.
 
 ### 4.2. The actual setup
+
+## 🤔 5. What about analog mixers?
+
+Great question (asked by myself lol). When you hear the word "Audio Mixer", then you imagine in the head a big console with a lot of knobs and faders for each channel, like an example of this article header image.
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Rrb242YjBibmx5M2g1Nmw4YW16OW54dnQ2dmU3Z2g1b2w2ZzZuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2hUEYYsJThKUUz9jCJ/giphy.webp" width="150" align=right>
+
+The problem with analog mixers is that even tho you can connect it to the computer, you have only physical inputs and only one output channel. That means, if you connect drums, a guitar and microphone, it will basically create a sbowball and throw right in your face.
