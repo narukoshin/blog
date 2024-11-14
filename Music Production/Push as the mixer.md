@@ -1,3 +1,5 @@
+<!-- {"title":"Ableton Push 2 as the mixer", "description":"In this topic I will share how I'm using my Ableton push 2 as a mixer that I'm using daily for easier different sound management and processing, for example boosting frequencies to listen the music.", "image_url":""} -->
+
 <img src="header.jpg">
 
 <div>
@@ -84,6 +86,37 @@ If you manage to set your setup like this, then I can congratulate you, because 
 
 ### 4.2. The actual setup
 
+1. Installing the Voicemeter. <br>
+
+Before you proceed, you need to install the Voicemeter software with all the drivers it comes with. After the installation, you need to restart your computer. (Setup could be different on mac).
+
+2. Voicemeter configuration <br>
+
+When you successfully installed Voicemeter, you need to configure the output device by clicking on the A1. This will be your main output device. I set it to my Arturia Minifuse audio interface.
+
+Then open Voicemeter settings using the menu or the keyboard shortcut `CTRL + ,`, and under the patch inserts, select the first 2 channels.
+
+<img alt="Voicemeter patch insert configuration" src="voicemeter_2.png">
+
+<sub>Figure 2: Voicemeter patch insert configuration</sub>
+
+
+Now you can exit the settings and, in the main screen, click on the <b>A1</b> button. There will be your output from the DAW that you will send to your speakers.
+
+<img alt="Voicemeter main screen after configuration" src="voicemeter_1.png">
+
+<sub>Figure 3: Voicemeter main screen after configuration</sub>
+
+3. DAW configuration <br>
+
+The next step is to configure your DAW. The first thing you need to do is select <b>Voicemeeter Potato Insert Virtual ASIO</b> as your audio device and set channels 1/2 as the output channel for the master track. For the PC sound, I'm using the <b>Voicemeter Input</b> device; in Ableton, for me, that is the 11/12 input channel. To see these channels, you need to enable them in the input/output configuration menu. In Ableton, they are disabled by default.
+
+<img src="ableton_1.png">
+
+<sub>Figure 4: Ableton Session View</sub>
+
+In the image above, you can see how my signal chain is configured. I have a guitar input on the 1/2 channel and I'm sending it back to the 3/4 channel. Later, that signal is sent to Rocksmith, while the Ableton Guitar group takes input from the Guitar I/O and sends it to the master after applying the amp.
+
 ## 🤔 5. What about other mixers?
 
 Great question (asked by myself, lol). When you hear the word "audio mixer," you probably imagine a big console with lots of knobs and faders for each channel, like the one in the header image of this article.
@@ -123,3 +156,13 @@ You still want something that is cheaper but does its job? Then a MIDI mixer or 
 It's difficult to answer the question of which one is best because each of these mixers has its purpose. One is better for stage audio, one requires less space, and another could be a good fit for a music studio.
 
 I believe that you can achieve the result with an analog mixer, it will just be a little bit more difficult because it wasn't made for it. I like the Ableton Push 2 because it doesn't work just like a mixer but also as a DAW controller, where I can do a lot of things that I program on Ableton.
+
+## 📌 6. Conclusion
+
+It doesn't matter what you decide to use. Everything that works for you, is easy to use, and doesn't cause additional latency that can affect your performance is good.
+
+If you are a beginner in the music field, then I would recommend doing research and thinking about what you really need and what will be useful for your daily life.
+
+I hope that this article helped you explore different hardware options and gave you a better understanding of music hardware.
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNpY2dsancxemkzYWdrN29lczNudnUzc2swa2g2YzFteHI5MW40aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dz4lgXAhlsLXG/200.webp">
