@@ -16,9 +16,11 @@ I believe that not everyone knows what Ableton Push is, so at the beginning, I w
 
 The Ableton Push 2 is a DAW controller device with 64 touch-sensitive pads that let you play notes, chords, and beats. It has a bright, high-resolution display that shows waveforms and mixer settings, making it easy to adjust levels and effects directly on the device.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.etsystatic.com%2F30371441%2Fr%2Fil%2F066f75%2F4639018357%2Fil_fullxfull.4639018357_rtxj.jpg&f=1&nofb=1&ipt=aa726968ff7462e3a2c4b3cf8bbb3ffe863000aafd1730219d745a51222faefb&ipo=images" width="500">
+<p align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.etsystatic.com%2F30371441%2Fr%2Fil%2F066f75%2F4639018357%2Fil_fullxfull.4639018357_rtxj.jpg&f=1&nofb=1&ipt=aa726968ff7462e3a2c4b3cf8bbb3ffe863000aafd1730219d745a51222faefb&ipo=images" width="500"><br>
+    <sub>Figure 1: Ableton Push 2 in the wooden stand.</sub>
+</p>
 
-<sub>Figure 1: Ableton Push 2 in the wooden stand.</sub>
 
 <img src="https://media1.tenor.com/m/n9_4v3S3-M0AAAAd/friday-excited.gif" width="150" align=right>
 
@@ -82,10 +84,42 @@ If you manage to set your setup like this, then I can congratulate you, because 
 
 ### 4.2. The actual setup
 
-## 🤔 5. What about analog mixers?
+## 🤔 5. What about other mixers?
 
-Great question (asked by myself lol). When you hear the word "Audio Mixer", then you imagine in the head a big console with a lot of knobs and faders for each channel, like an example of this article header image.
+Great question (asked by myself, lol). When you hear the word "audio mixer," you probably imagine a big console with lots of knobs and faders for each channel, like the one in the header image of this article.
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Rrb242YjBibmx5M2g1Nmw4YW16OW54dnQ2dmU3Z2g1b2w2ZzZuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2hUEYYsJThKUUz9jCJ/giphy.webp" width="150" align=right>
 
-The problem with analog mixers is that even tho you can connect it to the computer, you have only physical inputs and only one output channel. That means, if you connect drums, a guitar and microphone, it will basically create a sbowball and throw right in your face.
+### 5.1. Analog Mixer
+
+The problem with analog mixers is that even though you can connect them to a computer, you only have physical inputs and a single output channel. This means that if you connect drums, a guitar, and a microphone, it will essentially create a snowball effect and throw it right in your face.
+
+<p align=center>
+    <br>
+    <img src="https://m.media-amazon.com/images/I/81YOpAmzyyL._AC_SX522_.jpg" width="500"><br>
+    <sub>Figure 2: An Analog mixer MIZISNR AX-60 / costs around 83$ on Amazon</sub>
+</p>
+
+### 5.2. Digital Mixer
+
+The first thing I can say about digital mixers is that they are very expensive. A digital mixer such as the Tascam Model-12 is probably one of the cheapest options, and importantly, you can connect it directly to a DAW. You can use it for live sound, or it will just be a good fit in your home studio. Personally, I would like to try this one.
+
+<p align=center>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.soundandrecording.de%2Fapp%2Fuploads%2F2020%2F09%2FTascam-Model-12-Aufmacher-Hau.jpg&f=1&nofb=1&ipt=7f3af2687a5550a5553b0024b1db0885165d73d3484232856a2a0f675b5439a8&ipo=images" width="500"><br>
+    <sub>Figure 3: A digital mixer Tascam Model-12 / costs around 600$ on Amazon</sub>
+</p>
+
+### 5.3. MIDI Mixer
+
+You still want something that is cheaper but does its job? Then a MIDI mixer or controller is your go-to. This kind of controller won't work outside the DAW because it sends signals to the DAW about parameters you change.
+
+<p align=center>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedias.audiofanzine.com%2Fimages%2Fnormal%2Fkorg-nanokontrol2-3025776.jpg&f=1&nofb=1&ipt=75a755ad1225888ab1ef8807a5042dce24cb8143bd861b5f6855d1a47cde8806&ipo=images" width="500"><br>
+    <sub>Figure 4: A MIDI mixer Korg nanoKONTROL2 Slim-Line / costs around 67$ on Amazon</sub>
+</p>
+
+### 5.4. Which one is best?
+
+It's difficult to answer the question of which one is best because each of these mixers has its purpose. One is better for stage audio, one requires less space, and another could be a good fit for a music studio.
+
+I believe that you can achieve the result with an analog mixer, it will just be a little bit more difficult because it wasn't made for it. I like the Ableton Push 2 because it doesn't work just like a mixer but also as a DAW controller, where I can do a lot of things that I program on Ableton.
