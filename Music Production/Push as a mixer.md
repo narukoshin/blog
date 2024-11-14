@@ -1,6 +1,6 @@
-<!-- {"title":"Ableton Push 2 as a mixer", "description":"In this topic I will share how I'm using my Ableton push 2 as a mixer that I'm using daily for easier different sound management and processing, for example boosting frequencies to listen the music.", "image_url":""} -->
+<!-- {"title":"Ableton Push 2 as a mixer", "description":"In this topic I will share how I'm using my Ableton push 2 as a mixer that I'm using daily for easier different sound management and processing, for example boosting frequencies to listen the music.", "image_url":"https://github.com/narukoshin/blog/blob/assets/articles/push-as-a-mixer/article_header.jpg?raw=true"} -->
 
-<img src="header.jpg">
+<img src="https://github.com/narukoshin/blog/blob/assets/articles/push-as-a-mixer/article_header.jpg?raw=true">
 
 <div>
     <a target="_blank" href="https://twitter.com/enkosan_p"><img src="https://media4.giphy.com/media/iFUiSYMNPvIJZDpMKN/giphy.gif?cid=ecf05e471v5jn6vuhczu1tflu2wm7qt11atwybfwcgaqxz38&rid=giphy.gif&ct=s" align="middle" width="120"></a>
@@ -96,14 +96,14 @@ When you successfully installed Voicemeter, you need to configure the output dev
 
 Then open Voicemeter settings using the menu or the keyboard shortcut `CTRL + ,`, and under the patch inserts, select the first 2 channels.
 
-<img alt="Voicemeter patch insert configuration" src="voicemeter_2.png">
+<img alt="Voicemeter patch insert configuration" src="https://github.com/narukoshin/blog/blob/assets/articles/push-as-a-mixer/voicemeter_2.png?raw=true">
 
 <sub>Figure 2: Voicemeter patch insert configuration</sub>
 
 
 Now you can exit the settings and, in the main screen, click on the <b>A1</b> button. There will be your output from the DAW that you will send to your speakers.
 
-<img alt="Voicemeter main screen after configuration" src="voicemeter_1.png">
+<img alt="Voicemeter main screen after configuration" src="https://github.com/narukoshin/blog/blob/assets/articles/push-as-a-mixer/voicemeter_1.png?raw=true">
 
 <sub>Figure 3: Voicemeter main screen after configuration</sub>
 
@@ -111,7 +111,7 @@ Now you can exit the settings and, in the main screen, click on the <b>A1</b> bu
 
 The next step is to configure your DAW. The first thing you need to do is select <b>Voicemeeter Potato Insert Virtual ASIO</b> as your audio device and set channels 1/2 as the output channel for the master track. For the PC sound, I'm using the <b>Voicemeter Input</b> device; in Ableton, for me, that is the 11/12 input channel. To see these channels, you need to enable them in the input/output configuration menu. In Ableton, they are disabled by default.
 
-<img src="ableton_1.png">
+<img src="https://github.com/narukoshin/blog/blob/assets/articles/push-as-a-mixer/ableton_1.png?raw=true">
 
 <sub>Figure 4: Ableton Session View</sub>
 
