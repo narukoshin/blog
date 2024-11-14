@@ -113,9 +113,20 @@ The next step is to configure your DAW. The first thing you need to do is select
 
 <img src="https://github.com/narukoshin/blog/blob/assets/articles/push-as-a-mixer/ableton_1.png?raw=true">
 
+
 <sub>Figure 4: Ableton Session View</sub>
 
 In the image above, you can see how my signal chain is configured. I have a guitar input on the 1/2 channel and I'm sending it back to the 3/4 channel. Later, that signal is sent to Rocksmith, while the Ableton Guitar group takes input from the Guitar I/O and sends it to the master after applying the amp.
+
+This is how the final result looks on the Ableton Push 2 screen.
+
+<img alt="Push 2 mix screen" src="https://github.com/narukoshin/blog/blob/assets/articles/push-as-a-mixer/push_1.jpg?raw=true" width="500">
+
+<sub>Figure 5: Push 2 mix screen</sub>
+
+<img alt="Push 2 device screen with EQ effect" src="https://github.com/narukoshin/blog/blob/assets/articles/push-as-a-mixer/push_2.jpg?raw=true" width="500">
+
+<sub>Figure 6: Push 2 device screen with EQ effect</sub>
 
 ## 🤔 5. What about other mixers?
 
@@ -130,7 +141,7 @@ The problem with analog mixers is that even though you can connect them to a com
 <p align=center>
     <br>
     <img src="https://m.media-amazon.com/images/I/81YOpAmzyyL._AC_SX522_.jpg" width="500"><br>
-    <sub>Figure 2: An Analog mixer MIZISNR AX-60 / costs around 83$ on Amazon</sub>
+    <sub>Figure 7: An Analog mixer MIZISNR AX-60 / costs around 83$ on Amazon</sub>
 </p>
 
 ### 5.2. Digital Mixer
@@ -139,7 +150,7 @@ The first thing I can say about digital mixers is that they are very expensive. 
 
 <p align=center>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.soundandrecording.de%2Fapp%2Fuploads%2F2020%2F09%2FTascam-Model-12-Aufmacher-Hau.jpg&f=1&nofb=1&ipt=7f3af2687a5550a5553b0024b1db0885165d73d3484232856a2a0f675b5439a8&ipo=images" width="500"><br>
-    <sub>Figure 3: A digital mixer Tascam Model-12 / costs around 600$ on Amazon</sub>
+    <sub>Figure 8: A digital mixer Tascam Model-12 / costs around 600$ on Amazon</sub>
 </p>
 
 ### 5.3. MIDI Mixer
@@ -148,7 +159,7 @@ You still want something that is cheaper but does its job? Then a MIDI mixer or 
 
 <p align=center>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedias.audiofanzine.com%2Fimages%2Fnormal%2Fkorg-nanokontrol2-3025776.jpg&f=1&nofb=1&ipt=75a755ad1225888ab1ef8807a5042dce24cb8143bd861b5f6855d1a47cde8806&ipo=images" width="500"><br>
-    <sub>Figure 4: A MIDI mixer Korg nanoKONTROL2 Slim-Line / costs around 67$ on Amazon</sub>
+    <sub>Figure 9: A MIDI mixer Korg nanoKONTROL2 Slim-Line / costs around 67$ on Amazon</sub>
 </p>
 
 ### 5.4. Which one is best?
