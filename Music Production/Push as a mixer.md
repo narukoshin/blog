@@ -1,4 +1,4 @@
-<!-- {"title":"Ableton Push 2 as the mixer", "description":"In this topic I will share how I'm using my Ableton push 2 as a mixer that I'm using daily for easier different sound management and processing, for example boosting frequencies to listen the music.", "image_url":""} -->
+<!-- {"title":"Ableton Push 2 as a mixer", "description":"In this topic I will share how I'm using my Ableton push 2 as a mixer that I'm using daily for easier different sound management and processing, for example boosting frequencies to listen the music.", "image_url":""} -->
 
 <img src="header.jpg">
 
@@ -7,7 +7,7 @@
     <a target="_blank" href="https://instagram.com/enko.san"><img src="https://media1.giphy.com/media/Wu9Graz2W46frtHFKc/giphy.gif?cid=ecf05e47h46mbuhq40rgevni5rbxgadpw5icrr71vr9nu8d4&rid=giphy.gif&ct=s" align="middle" width="120"></a>
 </div>
 
-# 🏹 Ableton Push 2 as the mixer
+# 🏹 Ableton Push 2 as a mixer
 
 In this topic I will share how I'm using my Ableton push 2 as a mixer that I'm using daily for easier different sound management and processing, for example boosting frequencies to listen the music.
 
