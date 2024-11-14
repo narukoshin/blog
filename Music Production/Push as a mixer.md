@@ -136,7 +136,7 @@ Great question (asked by myself, lol). When you hear the word "audio mixer," you
 
 ### 5.1. Analog Mixer
 
-The problem with analog mixers is that even though you can connect them to a computer, you only have physical inputs and a single output channel. This means that if you connect drums, a guitar, and a microphone, it will essentially create a snowball effect and throw it right in your face.
+The problem with analog mixers is that even though you can connect them to a computer, you only have physical inputs and a single output channel. This means that if you connect drums, a guitar, and a microphone, it will essentially create a snowball from all the sounds and throw it right in your face.
 
 <p align=center>
     <br>
