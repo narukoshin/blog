@@ -142,7 +142,7 @@ You can read about my music experience in the topic introduction pages, where yo
 
 Enough writing, if you have a GitHub account, you can share your feedback or suggest a new topic for writing in the <a href="https://github.com/narukoshin/blog/issues">Issues</a> page or you can contact me at inquiries@narukoshin.me.
 
-<img src="https://github.com/narukoshin/blog/blob/assets/articles/pitch-shifting/stop_thinking.jpg?raw=true">
+<img src="https://github.com/narukoshin/blog/blob/assets/articles/pitch-shifting/stop_thinking.jpg?raw=true" width=700>
 
 <sub>Figure 6: Stop thinking, start doing.</sub>
 
