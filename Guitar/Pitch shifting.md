@@ -7,7 +7,7 @@ Before we start talking about pitch shifting, let's first see what that is.
 
 ## 1. What is pitch shifting?
 
-Pitch shifting is a powerful tool in music production that allows you to change the pitch of an audio signal without altering its duration. Whether you're creating harmonies, correcting pitch, or crafting unique soundscapes, pitch shifting opens up a world of creative possibilities. In other words, you can change guitar tuning without turning guitar tuning pegs. Wow, magic! 🧙‍♂️
+Pitch shifting is a powerful tool in music production that allows you to change the pitch of an audio signal without altering its duration. Whether you're creating harmonies, correcting pitch, or crafting unique soundscapes, pitch shifting opens up a world of creative possibilities. In other words, you can change guitar tuning without turning the guitar tuning pegs. Wow, magic! 🧙‍♂️
 
 Because this is a topic about guitars, we will talk about how you can use pitch shifting to alter the pitch of your guitar signals without changing their tempo, helping create harmonies, dive into different tunings, or explore unique soundscapes.
 
@@ -15,13 +15,13 @@ Because this is a topic about guitars, we will talk about how you can use pitch 
 
 A reference frequency is a standard pitch used as a basis for tuning musical instruments. The most common reference frequency is A4, which is set at 440 Hz. This means that note A above middle C vibrates at 440 cycles per second. By using this standard, musicians can ensure that their instruments are in tune with each other. Reference frequencies are crucial for maintaining harmony and consistency in musical performances and recordings, allowing musicians from different backgrounds and with different instruments to play together seamlessly.
 
-Most tuning systems allow you to adjust the reference frequency to suit different tuning standards or preferences. For example E Standard: 444 Hz - Some musicians prefer tuning slightly sharper than the traditional 440 Hz for a brighter sound.
+Most tuning systems allow you to adjust the reference frequency to suit different tuning standards or preferences. For example, E Standard: 444 Hz - Some musicians prefer tuning slightly sharper than the traditional 440 Hz for a brighter sound.
 
 ## 3. How to pitch shift
 
-If you want to change the pitch of your guitar, you can use pitch-shifting pedals or plugins. In most DAWs, there are already built-in pitch-shifting plugins. 
+If you want to change the pitch of your guitar, you can use pitch-shifting pedals or plugins. Most DAWs already have built-in pitch-shifting plugins. 
 
-In the picture above, you can see how the pitch-shifting pedal looks. One of the most useful features of this pedal is the ability to set a specific pitch and with just one press of a button, you can enable the pitch shift instantly. This functionality is incredibly handy for live performances, allowing you to switch tunings or create harmonies on the fly without interrupting your playing.
+In the picture below, you can see how the pitch-shifting pedal looks. One of the most useful features of this pedal is the ability to set a specific pitch, and with just one press of a button, you can enable the pitch shift instantly. This functionality is convenient for live performances, allowing you to switch tunings or create harmonies on the fly without interrupting your playing.
 
 <img alt="Digitech Whammy Ricochet Pitch Shift Harmonizer effect pedal" src="https://github.com/narukoshin/blog/blob/assets/articles/pitch-shifting/pitch-shifting-pedal.png?raw=true">
 
