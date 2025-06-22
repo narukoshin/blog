@@ -24,5 +24,7 @@ At the moment, the available articles are:
 <h3>
 
 > [1. 🏹 Ableton Push 2 as a mixer](Push%20as%20a%20mixer.md)
+
+> [2. 🪓 Ableton and OBS Workflow](Ableton%20and%20OBS%20Workflow.md)
 </h3>
 </b>
