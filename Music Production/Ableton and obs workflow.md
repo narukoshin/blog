@@ -1,6 +1,6 @@
 <!-- {"title":"Ableton and OBS Workflow", "description":"This article shows how to easily record sound from Ableton in OBS and use the new MiniFuse update to improve your audio setup.", "image_url":"https://github.com/user-attachments/assets/642cd09d-6585-4b64-93dd-a6338e419d3a"} -->
 
-<img src="https://github.com/narukoshin/blog/blob/assets/articles/ableton-and-obs-workflow/457666151-642cd09d-6585-4b64-93dd-a6338e419d3a.png?raw=true" width="100%" height="200">
+<img src="https://github.com/narukoshin/blog/blob/assets/articles/ableton-and-obs-workflow/457666151-642cd09d-6585-4b64-93dd-a6338e419d3a.png?raw=true&v=2">
 
 
 It’s been a while since my last article, so I’ve decided to cover two topics in this one. I felt that focusing on just one would be too short, as there isn’t much to explain individually.
