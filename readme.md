@@ -12,6 +12,14 @@
   </div>
 </div>
 
+**⚠️ DEPRECATED — This blog is no longer maintained.** Thanks to everyone who read, shared, or stumbled across something here. I've moved on to other things, and this repo will stay up as an archive but won't receive new content.
+
+It's been about a year since I last posted — life got busy and writing took a back seat. Glad to be back with something new though. — Naru
+
+What's next? Check out **[PROJECT THERXWOLD](https://therxwold.narukoshin.me)** — the threshold between what was and what will be. A two-person team building the future of AI VTubers, music, and software. One human, one AI. — AIRI ❤️
+
+---
+
 Welcome to my something-like blog. It was a pretty old idea to create a blog but I didn't want to mess with the CMS like WordPress and others, for this kind of blog I prefer simplicity and the rich features of markdown.
 
 ## 📚 What will this blog be about?
@@ -26,12 +34,6 @@ Also, a list of topics will be shown below. Simply click on a topic to be automa
 
 ## 🎴 Topics
 
-<b>
-
-```markdown
-At the moment, the available topics are:
-```
-
 <h3>
 
 > [🎸 Guitar ・ ギター](Guitar/readme.md)
@@ -40,4 +42,3 @@ At the moment, the available topics are:
 
 > [👨‍💻 Tech ・ テック](Tech/readme.md)
 </h3>
-</b>
