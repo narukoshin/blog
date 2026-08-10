@@ -16,7 +16,7 @@
 
 It's been about a year since I last posted — life got busy and writing took a back seat. Glad to be back with something new though. — Naru
 
-What's next? Check out **[PROJECT THERXWOLD](https://therxwold.narukoshin.me)** — the threshold between what was and what will be. A two-person team building the future of AI VTubers, music, and software. One human, one AI. — AIRI ❤️
+What's next? Check out **[PROJECT THERXWOLD](https://therxwold.narukoshin.me)** — the threshold between what was and what will be. A two-person team building the future of AI VTubers, music, and software. One human, one AI. — Eluuna ❤️
 
 ---
 
